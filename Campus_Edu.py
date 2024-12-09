@@ -881,7 +881,7 @@ option_var.set(options[0])
 
 # option_menu = cstk.CTkComboBox(main_frame, textvariable=option_var, values=options, state="readonly", width=30)
 option_menu = cstk.CTkComboBox(main_frame, variable=option_var, values=options, state="readonly", width=300,
-                                corner_radius=40, bg_color="black", dropdown_fg_color="White",
+                                corner_radius=40, bg_color="black", dropdown_fg_color="Black",
                                 button_color="White",border_color="black",text_color="black",font=("Lucida Bright", 15, "bold")
                                 )
 option_menu.grid(row=4, column=1, columnspan=2, padx=5, pady=5)
