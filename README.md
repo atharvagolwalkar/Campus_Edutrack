@@ -1,7 +1,7 @@
 # Campus EduTrack
 
   
-Campus EduTrack is a data processing tool designed to automate the population of student data from a central database into a set of pre-designed Excel templates. The application allows for efficient processing of personal information and semester results for students, handling data for multiple students at a time.
+Campus EduTrack is a data processing tool designed to automate the population of student data from a central database into a set of pre-designed Excel templates at SIES Graduate School Of Technology, Nerul, Navi Mumbai. The application allows for efficient processing of personal information and semester results for students, handling data for multiple students at a time.
 
 The tool leverages **xlwings** for Excel automation, **Tkinter** for the GUI, and **PIL** for image handling, providing an easy-to-use interface to select files, define processing options, and review output in real-time.
 
@@ -105,6 +105,28 @@ Common errors include:
 ## Contribution
 
 If you want to contribute to this project, feel free to fork the repository, create new branches, and submit pull requests with your improvements.
+
+## Contact
+
+For questions, suggestions, or feedback, please contact Atharva Golwalkar at atharvagolwalkar16@gmail.com.
+
+## FlowChart
+
+<img width="666" height="653" alt="image" src="https://github.com/user-attachments/assets/e261db53-8562-49c3-857f-64b3b85b0308" />
+
+## GUI
+
+<img width="552" height="483" alt="image" src="https://github.com/user-attachments/assets/fa774fc5-d60a-45ba-b609-ee6ce8c4acef" />
+
+## Mentee Information Sheets (8 Page Booklet)
+
+<img width="429" height="555" alt="image" src="https://github.com/user-attachments/assets/24f0a3d3-b640-4907-9c8d-2b1780313d4f" />
+<img width="433" height="561" alt="image" src="https://github.com/user-attachments/assets/56d2c11e-9445-4bcd-8c02-b4d58b2396a2" />
+
+## Final Result
+
+<img width="397" height="565" alt="image" src="https://github.com/user-attachments/assets/42f87b92-ef67-4a84-9384-92e279b93932" />
+<img width="410" height="550" alt="image" src="https://github.com/user-attachments/assets/e2a7a46a-a372-40c1-88a9-7f1a6d60b01b" />
 
 ## License
 
